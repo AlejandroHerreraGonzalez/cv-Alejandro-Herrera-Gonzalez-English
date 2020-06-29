@@ -54,5 +54,7 @@ Native language level
 
 **Municipality of San Jerónimo** (November 2016 to December 2016)    
 *contractor*  
-**Raiai** (December 2016 to December 2017)   
+**Raiai** (December 2016 to December 2018)   
 *CTO*  
+**FLUIDSIGNAL GROUP S.A** (Sep 2019)
+*Security Developer Tester*
