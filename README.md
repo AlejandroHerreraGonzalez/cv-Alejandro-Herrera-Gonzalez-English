@@ -11,10 +11,10 @@ I am interested in follow and learn the latest trends about technology that can 
 - I achieved this skill during my lifetime
 - I contributed to the develop of Raiai while doing my job as CTO
 - A link to some on-line evidence:
-  1) Link to the documentation of the artificial intelligences that is able to make Appraisals of real estate propierties,note: all the documentation is in Spanish. : https://raiai.weebly.com/dev-v2.html
+  1) Link to the documentation of the artificial intelligences that is able to make Appraisals of real estate propierties,note: all the documentation is in Spanish. : https://raiai.weebly.com/dev20.html
   2) Link to test the artificial intelligences : https://realestate2.herokuapp.com/tasacion
   3) Link to my last knowledge sharing about machine learning : https://github.com/AlejandroHerreraGonzalez/Introduccion-Machine-learning-.git
-
+  4) Link to my contributions in other projects : https://gitlab.com/aherreraatfluid 
 #### A business perspective
 
 Before start a new development i use the perspective of a starp-up where the resourses are scarce and the enviroment is rapidly changing, this perspective allow me to create cost efficient solutions that could be implemented fast.
