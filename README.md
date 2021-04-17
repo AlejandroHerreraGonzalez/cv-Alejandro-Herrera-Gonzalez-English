@@ -27,6 +27,11 @@ I like to have the big picture of the business in my mind before start any devel
 
 ## Education
 
+#### Huawei HCIA-AI (MAR 2021)
+
+-  ID credential 010102001808427251409
+
+
 #### Udemy (January 2015 to December 2016)
 
 - Curious and passionate about code.
@@ -41,6 +46,7 @@ I like to have the big picture of the business in my mind before start any devel
 #### Universidad de Medellin (February 2009 to October 2015)
 
 - Tourism Business Administrator 
+
 
 ## Languages
 
