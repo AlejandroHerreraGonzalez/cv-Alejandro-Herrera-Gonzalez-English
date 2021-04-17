@@ -27,7 +27,7 @@ I like to have the big picture of the business in my mind before start any devel
 
 ## Education
 
-#### Huawei HCIA-AI (MAR 2021)
+#### Huawei HCIA-AI (March 2021)
 
 -  ID credential 010102001808427251409
 
