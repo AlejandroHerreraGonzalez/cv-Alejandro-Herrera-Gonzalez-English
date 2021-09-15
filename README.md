@@ -27,6 +27,9 @@ I like to have the big picture of the business in my mind before start any devel
 
 ## Education
 
+#### Google Data Analytics Certificado profesional (Current)
+
+
 #### Huawei HCIA-AI (March 2021)
 
 -  ID credential 010102001808427251409
