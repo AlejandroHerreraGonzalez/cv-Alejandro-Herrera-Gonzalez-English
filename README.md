@@ -27,7 +27,9 @@ I like to have the big picture of the business in my mind before start any devel
 
 ## Education
 
-#### Google Data Analytics Certificado profesional (Current)
+#### Google Data Analytics Certificado profesional (April 2022)
+
+-  Verify this badge link: https://www.credly.com/badges/1933db21-1e6c-427e-86b9-0c6b70692684
 
 
 #### Huawei HCIA-AI (March 2021)
